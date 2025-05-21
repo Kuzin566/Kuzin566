@@ -6,14 +6,18 @@
   <code><img width="5%" title="Pycharm" src="https://github.com/Kuzin566/Kuzin566/blob/main/images/pycharm.png"></code>
   <code><img width="5%" title="Python" src="https://github.com/Kuzin566/Kuzin566/blob/main/images/python.png"></code>
   <code><img width="5%" title="Pytest" src="https://github.com/Kuzin566/Kuzin566/blob/main/images/pytest.png"></code>
+  <code><img width="5%" title="Playwright" src="https://github.com/Kuzin566/Kuzin566/blob/main/images/pw.jpeg"></code>
   <code><img width="5%" title="Selenium" src="https://github.com/Kuzin566/Kuzin566/blob/main/images/selenium.png"></code>
   <code><img width="5%" title="GitHub" src="https://github.com/Kuzin566/Kuzin566/blob/main/images/github.png"></code>
+  <code><img width="5%" title="GitLab" src="https://github.com/Kuzin566/Kuzin566/blob/main/images/gitlab.png"></code>
   <code><img width="5%" title="Allure Report" src="https://github.com/Kuzin566/Kuzin566/blob/main/images/allure.png"></code>
   <code><img width="5%" title="Allure TestOps" src="https://github.com/Kuzin566/Kuzin566/blob/main/images/allure_testops.png"></code>
   <code><img width="5%" title="PostgreSQL" src="https://github.com/Kuzin566/Kuzin566/blob/main/images/postgre.png"></code>
+  <code><img width="5%" title="CH" src="https://github.com/Kuzin566/Kuzin566/blob/main/images/ch.png"></code>
   <code><img width="5%" title="Postman" src="https://github.com/Kuzin566/Kuzin566/blob/main/images/postman.png"></code>
+  <code><img width="5%" title="Grafana" src="https://github.com/Kuzin566/Kuzin566/blob/main/images/grafana.png"></code>
+  <code><img width="5%" title="Kibana" src="https://github.com/Kuzin566/Kuzin566/blob/main/images/kibana.png"></code>
 </p>
-
 
 ### Hard skills:
 
