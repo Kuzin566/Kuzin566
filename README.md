@@ -19,10 +19,6 @@
   <code><img width="5%" title="Kibana" src="https://github.com/Kuzin566/Kuzin566/blob/main/images/kibana.png"></code>
 </p>
 
-## 📊 GitLab Activity
-
-![GitHub Activity](https://github.com/Kuzin566/Kuzin566/blob/main/images/gitlab_activity.png?raw=true)
-
 ### Hard skills:
 
 - Функциональное, регрессионное, интеграционное и smoke тестирование
